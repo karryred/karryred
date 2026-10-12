@@ -24,8 +24,10 @@
   </a>
 </p>
 
-## 🏅 Stats
+## 🏅 Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karryred&show_icons=true&theme=tokyonight" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karryred&layout=compact&theme=tokyonight" height="175" />
+  <!-- Private 잔디가 포함된 기여도 & 연속 커밋 -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karryred&theme=tokyonight&hide_border=true" height="175" />
+  <!-- 가장 많이 사용한 언어 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karryred&layout=compact&hide=jupyter%20notebook&theme=tokyonight&hide_border=true" height="175" />
 </p>
